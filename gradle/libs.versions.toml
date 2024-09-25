@@ -1,6 +1,6 @@
 [versions]
 springframework-boot="3.2.10"
-spring-dependency-management= "1.1.5"
+spring-dependency-management="1.1.5"
 
 [plugins]
 springframework-boot = { id = "org.springframework.boot" , version.ref = "springframework-boot"}
